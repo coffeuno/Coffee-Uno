@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-image: url("coffee branca bg.jpg");
+	background-size: 100%;
+	background-repeat:no-repeat;
+}
+}
+* {
+	margin: 0;
+	padding:0;
+}
+
+img{
+	width: 40%;
+	height: auto;
+}
+p{
+	font-size: 22px;
+	line-height: 30px;
+	text-indent: 0px;
+	letter-spacing: 1px;
+	margin: 60px 40px 5px 490px;
+	text-align: justify;
+	text-transform: uppercase;
+	font-family: serif, Georgia
+}
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: no-color;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+	
+}
+
+ul {
+
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	line-height: 50px;
+}
+
+ul li a {
+	display: block;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: arial;
+	color: #2c1907;
+	padding: 0 20px;
+	text-align: center;
+}
+ul li a:hover {
+	color: red;

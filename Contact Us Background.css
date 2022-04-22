@@ -1,0 +1,60 @@
+body{
+	background-image: url("contact us bg.png");
+	background-repeat:no-repeat;
+	background-size:100% 690px;
+}
+
+* {
+	margin: 0;
+	padding:0;
+}
+
+nav{
+	width: 100%;
+	height: 50px;
+	background-color: no-color;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+}
+
+ul {
+
+}
+
+ul li {
+	list-style: none;
+	display: inline-block;
+	line-height: 50px;
+}
+
+ul li a {
+	display: block;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: arial;
+	color: #2c1907;
+	padding: 0 20px;
+	text-align: center;
+}
+ul li a:hover {
+	color: red;
+}
+
+p{
+	text-align:left;
+	margin-top: 400px;
+	margin-left: 150px;
+	font-size: 18px;
+	font-family:arial;
+}
+a{
+	color: red;
+	
+}
+
+
+img{
+	vertical-align: middle;
+}
+
